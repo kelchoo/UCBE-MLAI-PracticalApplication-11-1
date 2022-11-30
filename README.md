@@ -31,3 +31,7 @@ Step 3, we apply ML models on the preprocessed dataset with features as inputs a
 Data Understanding¶
 
 After considering the business understanding, we want to get familiar with our data. Write down some steps that you would take to get to know the dataset and identify any quality issues within. Take time to get to know the dataset and explore what information it contains and how this could be used to inform your business understanding.
+
+
+
+
